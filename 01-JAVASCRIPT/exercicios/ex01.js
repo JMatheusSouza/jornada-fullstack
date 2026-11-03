@@ -1,1 +1,0 @@
-console.log("Olá, estou começando a estudar javascript!");
