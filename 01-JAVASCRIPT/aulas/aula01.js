@@ -15,3 +15,5 @@ let idade = 17;
 const curso = "Desenvvolvimento de Sistemas";
 
 console.log(nome, idade, curso);
+
+console.log("Hoje estou aprendendo Git básico!");
